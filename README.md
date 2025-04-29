@@ -1,1 +1,1 @@
-# Web-Scraping-EDA-IMDB-Project
+# IMDB Project: Web-Scraping, EDA, Predictive Analysis
