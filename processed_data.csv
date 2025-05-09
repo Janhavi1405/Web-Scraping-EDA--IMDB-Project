@@ -1,0 +1,497 @@
+Movie Name,Year,Rated,Runtime,Genre,Director,Stars,IMDb_Rating,Metascore,Votes,Gross
+The Godfather,1972,R,175.0,"Crime, Drama",Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan",9.2,100.0,2121667.0,136381073.0
+The Godfather Part II,1974,R,202.0,"Crime, Drama",Francis Ford Coppola,"Al Pacino, Robert De Niro, Robert Duvall",9.0,90.0,1424468.0,47834595.0
+Seven Samurai,1954,Not Rated,207.0,"Action, Drama",Akira Kurosawa,"Toshirô Mifune, Takashi Shimura, Keiko Tsushima",8.6,98.0,379094.0,820278.0
+12 Angry Men,1957,Approved,96.0,"Crime, Drama",Sidney Lumet,"Henry Fonda, Lee J. Cobb, Martin Balsam",9.0,97.0,920922.0,
+City Lights,1931,G,87.0,"Comedy, Drama, Romance",Charles Chaplin,"Charles Chaplin, Virginia Cherrill, Florence Lee",8.5,99.0,205485.0,19181.0
+"The Good, the Bad and the Ugly",1966,R,178.0,"Adventure, Western",Sergio Leone,"Clint Eastwood, Eli Wallach, Lee Van Cleef",8.8,90.0,850523.0,25100000.0
+The Shawshank Redemption,1994,R,142.0,Drama,Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton",9.3,82.0,3031101.0,28767189.0
+Psycho,1960,R,109.0,"Horror, Mystery, Thriller",Alfred Hitchcock,"Anthony Perkins, Janet Leigh, Vera Miles",8.5,97.0,741743.0,32000000.0
+Modern Times,1936,G,87.0,"Comedy, Drama, Romance",Charles Chaplin,"Charles Chaplin, Paulette Goddard, Henry Bergman",8.5,96.0,272428.0,163577.0
+Schindler's List,1993,R,195.0,"Biography, Drama, History",Steven Spielberg,"Liam Neeson, Ralph Fiennes, Ben Kingsley",9.0,95.0,1517035.0,96898818.0
+Pulp Fiction,1994,R,154.0,"Crime, Drama",Quentin Tarantino,"John Travolta, Uma Thurman, Samuel L. Jackson",8.9,95.0,2331708.0,107928762.0
+Rear Window,1954,PG,112.0,"Drama, Mystery, Thriller",Alfred Hitchcock,"James Stewart, Grace Kelly, Wendell Corey",8.5,100.0,545354.0,37622343.0
+One Flew Over the Cuckoo's Nest,1975,R,133.0,Drama,Milos Forman,"Jack Nicholson, Louise Fletcher, Michael Berryman",8.7,84.0,1108711.0,108981275.0
+Apocalypse Now,1979,R,147.0,"Drama, Mystery, War",Francis Ford Coppola,"Martin Sheen, Marlon Brando, Robert Duvall",8.4,94.0,737150.0,96042913.0
+Tokyo Story,1953,Not Rated,137.0,Drama,Yasujirô Ozu,"Chishû Ryû, Chieko Higashiyama, Sô Yamamura",8.1,100.0,73492.0,
+Spirited Away,2001,PG,124.0,"Animation, Adventure, Family",Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette, Miyu Irino",8.6,96.0,905425.0,15205725.0
+Goodfellas,1990,R,145.0,"Biography, Crime, Drama",Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",8.7,92.0,1319523.0,46909721.0
+Vertigo,1958,PG,128.0,"Mystery, Romance, Thriller",Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes",8.3,100.0,443973.0,7863310.0
+Singin' in the Rain,1952,G,103.0,"Comedy, Musical, Romance","Stanley Donen, Gene Kelly","Gene Kelly, Donald O'Connor, Debbie Reynolds",8.3,99.0,272197.0,1884537.0
+Sunset Boulevard,1950,Approved,110.0,"Drama, Film-Noir",Billy Wilder,"William Holden, Gloria Swanson, Erich von Stroheim",8.4,94.0,245601.0,299645.0
+Citizen Kane,1941,PG,119.0,"Drama, Mystery",Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore",8.3,100.0,480096.0,1627530.0
+Harakiri,1962,Not Rated,133.0,"Drama, Mystery",Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama, Shima Iwashita",8.6,85.0,79357.0,
+Rashomon,1950,Not Rated,88.0,"Crime, Drama, Mystery",Akira Kurosawa,"Toshirô Mifune, Machiko Kyô, Masayuki Mori",8.2,98.0,186250.0,46808.0
+Once Upon a Time in the West,1968,PG-13,166.0,"Drama, Western",Sergio Leone,"Henry Fonda, Charles Bronson, Claudia Cardinale",8.5,82.0,367158.0,5321508.0
+Fanny and Alexander,1982,R,188.0,Drama,Ingmar Bergman,"Bertil Guve, Pernilla Allwin, Kristina Adolphson",8.1,100.0,68952.0,6783304.0
+The Lord of the Rings: The Return of the King,2003,PG-13,201.0,"Adventure, Drama, Fantasy",Peter Jackson,"Elijah Wood, Viggo Mortensen, Ian McKellen",9.0,94.0,2074794.0,381878219.0
+Andrei Rublev,1966,R,189.0,"Biography, Drama, History",Andrei Tarkovsky,"Anatoliy Solonitsyn, Ivan Lapikov, Nikolay Grinko",8.0,,58379.0,124189.0
+The Passion of Joan of Arc,1928,Passed,114.0,"Biography, Drama, History",Carl Theodor Dreyer,"Maria Falconetti, Eugene Silvain, André Berley",8.1,98.0,64865.0,21877.0
+Sherlock Jr.,1924,Passed,45.0,"Action, Comedy, Romance",Buster Keaton,"Buster Keaton, Kathryn McGuire, Joe Keaton",8.2,,60321.0,977375.0
+Bicycle Thieves,1948,Not Rated,89.0,Drama,Vittorio De Sica,"Lamberto Maggiorani, Enzo Staiola, Lianella Carell",8.3,,182401.0,371111.0
+Casablanca,1942,PG,102.0,"Drama, Romance, War",Michael Curtiz,"Humphrey Bogart, Ingrid Bergman, Paul Henreid",8.5,100.0,627789.0,4219709.0
+Some Like It Hot,1959,Approved,121.0,"Comedy, Music, Romance",Billy Wilder,"Marilyn Monroe, Tony Curtis, Jack Lemmon",8.2,98.0,292794.0,
+Persona,1966,Not Rated,83.0,"Drama, Thriller",Ingmar Bergman,"Bibi Andersson, Liv Ullmann, Margaretha Krook",8.0,86.0,135455.0,
+Children of Paradise,1945,Not Rated,189.0,"Drama, Romance",Marcel Carné,"Arletty, Jean-Louis Barrault, Pierre Brasseur",8.3,96.0,21662.0,36986.0
+Taxi Driver,1976,R,114.0,"Crime, Drama",Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd",8.2,94.0,977068.0,28262574.0
+The Dark Knight,2008,PG-13,152.0,"Action, Crime, Drama",Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart",9.0,84.0,3015692.0,534987076.0
+Metropolis,1927,Not Rated,153.0,"Drama, Sci-Fi",Fritz Lang,"Brigitte Helm, Alfred Abel, Gustav Fröhlich",8.3,98.0,194069.0,1236166.0
+Stalker,1979,Not Rated,162.0,"Drama, Sci-Fi",Andrei Tarkovsky,"Alisa Freyndlikh, Aleksandr Kaydanovskiy, Anatoliy Solonitsyn",8.0,85.0,151172.0,292049.0
+Pather Panchali,1955,Not Rated,125.0,Drama,Satyajit Ray,"Kanu Bannerjee, Karuna Bannerjee, Subir Banerjee",8.2,,39591.0,134241.0
+Lawrence of Arabia,1962,PG,227.0,"Adventure, Biography, Drama",David Lean,"Peter O'Toole, Alec Guinness, Anthony Quinn",8.3,100.0,327088.0,45306425.0
+M,1931,Passed,99.0,"Crime, Mystery, Thriller",Fritz Lang,"Peter Lorre, Ellen Widmann, Inge Landgut",8.3,,176513.0,35566.0
+Ordet,1955,Not Rated,126.0,Drama,Carl Theodor Dreyer,"Henrik Malberg, Emil Hass Christensen, Preben Lerdorff Rye",8.2,,17927.0,
+It's a Wonderful Life,1946,PG,130.0,"Drama, Family, Fantasy",Frank Capra,"James Stewart, Donna Reed, Lionel Barrymore",8.6,89.0,526295.0,1483643.0
+Satantango,1994,Not Rated,439.0,Drama,Béla Tarr,"Mihály Vig, Putyi Horváth, László feLugossy",8.2,,13042.0,
+Parasite (2019),2019,Not Rated,115.5,,,,,,106136.0,
+The 400 Blows,1959,Not Rated,99.0,"Crime, Drama",François Truffaut,"Jean-Pierre Léaud, Albert Rémy, Claire Maurier",8.0,,130340.0,509.0
+Ikiru,1952,Not Rated,143.0,Drama,Akira Kurosawa,"Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori",8.3,92.0,94812.0,60239.0
+Mirror,1975,Not Rated,107.0,"Biography, Drama",Andrei Tarkovsky,"Margarita Terekhova, Filipp Yankovskiy, Ignat Daniltsev",7.9,82.0,53556.0,22168.0
+Come and See,1985,Not Rated,142.0,"Drama, Thriller, War",Elem Klimov,"Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius",8.4,,103344.0,71909.0
+The Apartment,1960,Approved,125.0,"Comedy, Drama, Romance",Billy Wilder,"Jack Lemmon, Shirley MacLaine, Fred MacMurray",8.3,94.0,208132.0,18600000.0
+The General,1926,Passed,78.0,"Action, Adventure, Comedy","Clyde Bruckman, Buster Keaton","Buster Keaton, Marion Mack, Glen Cavender",8.1,,101287.0,
+Grave of the Fireflies,1988,Not Rated,88.0,"Animation, Drama, War",Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",8.5,94.0,342933.0,516962.0
+Le Trou,2022,Not Rated,115.5,"Comedy, Sci-Fi",,"Madeleine Baudot, Laura Fautré, Nicolas Gob",,,106136.0,
+The Battle of Algiers,1966,Not Rated,121.0,"Drama, War",Gillo Pontecorvo,"Brahim Hadjadj, Jean Martin, Yacef Saadi",8.1,96.0,69287.0,879794.0
+A Man Escaped,1956,Not Rated,101.0,"Drama, Thriller, War",Robert Bresson,"François Leterrier, Charles Le Clainche, Maurice Beerblock",8.2,,28822.0,
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95.0,"Comedy, War",Stanley Kubrick,"Peter Sellers, George C. Scott, Sterling Hayden",8.3,97.0,537333.0,9440272.0
+Paths of Glory,1957,Approved,88.0,"Drama, War",Stanley Kubrick,"Kirk Douglas, Ralph Meeker, Adolphe Menjou",8.4,90.0,223297.0,
+The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178.0,"Adventure, Drama, Fantasy",Peter Jackson,"Elijah Wood, Ian McKellen, Orlando Bloom",8.9,92.0,2104541.0,319372078.0
+All About Eve,1950,Approved,138.0,Drama,Joseph L. Mankiewicz,"Bette Davis, Anne Baxter, George Sanders",8.2,98.0,144113.0,63463.0
+Star Wars: Episode V - The Empire Strikes Back,1980,PG,124.0,"Action, Adventure, Fantasy",Irvin Kershner,"Mark Hamill, Harrison Ford, Carrie Fisher",8.7,82.0,1435744.0,292753960.0
+High and Low,1963,Not Rated,143.0,"Crime, Drama, Mystery",Akira Kurosawa,"Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai",8.4,90.0,58940.0,46808.0
+The Great Dictator,1940,G,125.0,"Comedy, Drama, War",Charles Chaplin,"Charles Chaplin, Paulette Goddard, Jack Oakie",8.4,,246821.0,
+The Silence of the Lambs,1991,R,118.0,"Crime, Drama, Horror",Jonathan Demme,"Jodie Foster, Anthony Hopkins, Scott Glenn",8.6,86.0,1633270.0,130742922.0
+2001: A Space Odyssey,1968,G,149.0,"Adventure, Sci-Fi",Stanley Kubrick,"Keir Dullea, Gary Lockwood, William Sylvester",8.3,84.0,743796.0,60481243.0
+North by Northwest,1959,Approved,136.0,"Adventure, Drama, Mystery",Alfred Hitchcock,"Cary Grant, Eva Marie Saint, James Mason",8.3,98.0,357260.0,66728.0
+Double Indemnity,1944,Approved,107.0,"Crime, Drama, Film-Noir",Billy Wilder,"Fred MacMurray, Barbara Stanwyck, Edward G. Robinson",8.3,95.0,173009.0,
+Ugetsu,1953,Not Rated,96.0,"Drama, Fantasy, War",Kenji Mizoguchi,"Masayuki Mori, Machiko Kyô, Kinuyo Tanaka",8.1,,26742.0,11197.0
+Woman in the Dunes,1964,Not Rated,147.0,"Drama, Thriller",Hiroshi Teshigahara,"Eiji Okada, Kyôko Kishida, Kôji Mitsui",8.5,,23433.0,
+Sansho the Bailiff,1954,Not Rated,124.0,Drama,Kenji Mizoguchi,"Kinuyo Tanaka, Yoshiaki Hanayagi, Kyôko Kagawa",8.4,96.0,18809.0,
+Once Upon a Time in America,1984,R,229.0,"Crime, Drama",Sergio Leone,"Robert De Niro, James Woods, Elizabeth McGovern",8.3,75.0,390054.0,5321508.0
+City of God,2002,R,130.0,"Crime, Drama","Fernando Meirelles, Kátia Lund","Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",8.6,79.0,835420.0,7564459.0
+Late Spring,1949,Not Rated,110.0,"Comedy, Drama",Yasujirô Ozu,"Chishû Ryû, Setsuko Hara, Yumeji Tsukioka",8.2,93.0,19919.0,13254.0
+Barry Lyndon,1975,PG,185.0,"Adventure, Drama, War",Stanley Kubrick,"Ryan O'Neal, Marisa Berenson, Patrick Magee",8.1,89.0,192864.0,
+The Lord of the Rings: The Two Towers,2002,PG-13,179.0,"Adventure, Drama, Fantasy",Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen",8.8,87.0,1871784.0,345518923.0
+Raging Bull,1980,R,129.0,"Biography, Drama, Sport",Martin Scorsese,"Robert De Niro, Cathy Moriarty, Joe Pesci",8.1,90.0,390616.0,23383987.0
+Chinatown,1974,R,130.0,"Drama, Mystery, Thriller",Roman Polanski,"Jack Nicholson, Faye Dunaway, John Huston",8.1,92.0,364484.0,29200000.0
+Alien,1979,R,117.0,"Horror, Sci-Fi",Ridley Scott,"Sigourney Weaver, Tom Skerritt, John Hurt",8.5,89.0,1008748.0,84206106.0
+Ran,1985,R,160.0,"Action, Drama, War",Akira Kurosawa,"Tatsuya Nakadai, Akira Terao, Jinpachi Nezu",8.2,97.0,141102.0,4135750.0
+The Seventh Seal,1957,Not Rated,96.0,"Drama, Fantasy",Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",8.1,88.0,206854.0,
+The Kid,1921,Passed,68.0,"Comedy, Drama, Family",Charles Chaplin,"Charles Chaplin, Edna Purviance, Jackie Coogan",8.2,,139244.0,
+Wild Strawberries,1957,Not Rated,92.0,"Drama, Romance",Ingmar Bergman,"Victor Sjöström, Bibi Andersson, Ingrid Thulin",8.1,88.0,120290.0,
+A Brighter Summer Day,1991,Not Rated,237.0,"Crime, Drama, Romance",Edward Yang,"Chang Chen, Lisa Yang, Kuo-Chu Chang",8.2,91.0,13551.0,
+8½,1963,Not Rated,138.0,Drama,Federico Fellini,"Marcello Mastroianni, Anouk Aimée, Claudia Cardinale",8.0,93.0,127693.0,98760.0
+The Pianist,2002,R,150.0,"Biography, Drama, Music",Roman Polanski,"Adrien Brody, Thomas Kretschmann, Frank Finlay",8.5,85.0,964581.0,32590750.0
+The World of Apu,1959,Not Rated,105.0,Drama,Satyajit Ray,"Soumitra Chatterjee, Sharmila Tagore, Alok Chakravarty",8.4,,17326.0,134241.0
+La Dolce Vita,1960,Not Rated,174.0,"Comedy, Drama",Federico Fellini,"Marcello Mastroianni, Anita Ekberg, Anouk Aimée",8.0,95.0,79809.0,
+Star Wars: Episode IV - A New Hope,1977,PG,121.0,"Action, Adventure, Fantasy",George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher",8.6,90.0,1506354.0,460998507.0
+The Best of Youth,2003,R,374.0,"Drama, Romance",Marco Tullio Giordana,"Luigi Lo Cascio, Alessio Boni, Jasmine Trinca",8.5,89.0,25170.0,274024.0
+The Gold Rush,1925,Approved,95.0,"Adventure, Comedy, Drama",Charles Chaplin,"Charles Chaplin, Mack Swain, Tom Murray",8.1,,123629.0,
+The Third Man,1949,Approved,93.0,"Drama, Film-Noir, Mystery",Carol Reed,"Orson Welles, Joseph Cotten, Alida Valli",8.1,97.0,187102.0,1067364.0
+The Treasure of the Sierra Madre,1948,Approved,126.0,"Adventure, Drama, Western",John Huston,"Humphrey Bogart, Walter Huston, Tim Holt",8.2,98.0,135657.0,5014000.0
+I Am Cuba,1964,Not Rated,141.0,Drama,Mikhail Kalatozov,"Sergio Corrieri, Salvador Wood, José Gallardo",8.2,,11143.0,168100.0
+The Lives of Others,2006,R,137.0,"Drama, Mystery, Thriller",Florian Henckel von Donnersmarck,"Ulrich Mühe, Martina Gedeck, Sebastian Koch",8.4,89.0,426492.0,11286112.0
+Witness for the Prosecution,1957,Approved,116.0,"Crime, Drama, Mystery",Billy Wilder,"Tyrone Power, Marlene Dietrich, Charles Laughton",8.4,76.0,145279.0,
+Touch of Evil,1958,PG-13,95.0,"Crime, Drama, Film-Noir",Orson Welles,"Charlton Heston, Orson Welles, Janet Leigh",8.0,99.0,111672.0,2247465.0
+WALL·E,2008,G,98.0,"Animation, Adventure, Family",Andrew Stanton,"Ben Burtt, Elissa Knight, Jeff Garlin",8.4,95.0,1259621.0,223808164.0
+Scenes from a Marriage,2021,TV-MA,115.5,Drama,,"Jessica Chastain, Oscar Isaac, Sophia Kopera",8.1,,30678.0,
+To Be or Not to Be,1942,Approved,99.0,"Comedy, Romance, War",Ernst Lubitsch,"Carole Lombard, Jack Benny, Robert Stack",8.1,86.0,46894.0,3270000.0
+A Separation,2011,PG-13,123.0,Drama,Asghar Farhadi,"Payman Maadi, Leila Hatami, Sareh Bayat",8.3,95.0,266651.0,7099055.0
+The Night of the Hunter,1955,Approved,92.0,"Crime, Drama, Film-Noir",Charles Laughton,"Robert Mitchum, Shelley Winters, Lillian Gish",8.0,97.0,102307.0,
+Three Colors: Red,1994,R,99.0,"Drama, Mystery, Romance",Krzysztof Kieslowski,"Irène Jacob, Jean-Louis Trintignant, Frédérique Feder",8.1,100.0,112875.0,3581969.0
+Yojimbo,1961,Not Rated,110.0,"Action, Drama, Thriller",Akira Kurosawa,"Toshirô Mifune, Eijirô Tôno, Tatsuya Nakadai",8.2,93.0,135707.0,46808.0
+Back to the Future,1985,PG,116.0,"Adventure, Comedy, Sci-Fi",Robert Zemeckis,"Michael J. Fox, Christopher Lloyd, Lea Thompson",8.5,87.0,1376002.0,214553307.0
+My Neighbor Totoro,1988,G,86.0,"Animation, Comedy, Family",Hayao Miyazaki,"Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto",8.1,87.0,404996.0,2250213.0
+In the Mood for Love,2000,PG,98.0,"Drama, Romance",Wong Kar-Wai,"Tony Leung Chiu-wai, Maggie Cheung, Ping-Lam Siu",8.1,87.0,175628.0,2738980.0
+Princess Mononoke,1997,PG-13,133.0,"Animation, Adventure, Fantasy",Hayao Miyazaki,"Yôji Matsuda, Yuriko Ishida, Yûko Tanaka",8.3,76.0,458216.0,11437745.0
+Saving Private Ryan,1998,R,169.0,"Drama, War",Steven Spielberg,"Tom Hanks, Matt Damon, Tom Sizemore",8.6,91.0,1558717.0,217049603.0
+Cinema Paradiso,1988,PG,174.0,"Drama, Romance",Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale, Antonella Attili",8.5,80.0,300405.0,12397210.0
+La Jetée,1962,Not Rated,28.0,"Short, Drama, Romance",Chris Marker,"Étienne Becker, Jean Négroni, Hélène Chatelain",8.2,,37834.0,
+The Wages of Fear,1953,Not Rated,156.0,"Adventure, Drama, Thriller",Henri-Georges Clouzot,"Yves Montand, Charles Vanel, Peter van Eyck",8.1,85.0,69086.0,21228.0
+Das Boot,1981,R,149.0,"Drama, War",Wolfgang Petersen,"Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann",8.4,85.0,273687.0,11487676.0
+Fight Club,1999,R,139.0,"Crime, Drama, Thriller",David Fincher,"Brad Pitt, Edward Norton, Meat Loaf",8.8,67.0,2456010.0,37030102.0
+Nights of Cabiria,1957,Not Rated,110.0,Drama,Federico Fellini,"Giulietta Masina, François Périer, Franca Marzi",8.1,,52765.0,766530.0
+La Strada,1954,Not Rated,108.0,Drama,Federico Fellini,"Anthony Quinn, Giulietta Masina, Richard Basehart",8.0,,68276.0,
+Amadeus,1984,PG,160.0,"Biography, Drama, Music",Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",8.4,87.0,443510.0,51973029.0
+Forrest Gump,1994,PG-13,142.0,"Drama, Romance",Robert Zemeckis,"Tom Hanks, Robin Wright, Gary Sinise",8.8,82.0,2368927.0,330455270.0
+Spider-Man: Into the Spider-Verse,2018,PG,117.0,"Animation, Action, Adventure","Bob Persichetti, Peter Ramsey, Rodney Rothman","Shameik Moore, Jake Johnson, Hailee Steinfeld",8.4,87.0,727185.0,190241310.0
+The Lion King,1994,G,88.0,"Animation, Adventure, Drama","Roger Allers, Rob Minkoff","Matthew Broderick, Jeremy Irons, James Earl Jones",8.5,88.0,1199828.0,424979720.0
+Inception,2010,PG-13,148.0,"Action, Adventure, Sci-Fi",Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",8.8,74.0,2671882.0,292587330.0
+Whiplash (2014),2014,Not Rated,115.5,,,,,,106136.0,
+The Shop Around the Corner,1940,Approved,99.0,"Comedy, Drama, Romance",Ernst Lubitsch,"Margaret Sullavan, James Stewart, Frank Morgan",8.0,96.0,40953.0,
+Rififi,1955,Not Rated,118.0,"Crime, Drama, Thriller",Jules Dassin,"Jean Servais, Carl Möhner, Robert Manuel",8.1,97.0,37695.0,517975.0
+Umberto D.,1952,Not Rated,89.0,Drama,Vittorio De Sica,"Carlo Battisti, Maria Pia Casilio, Lina Gennari",8.2,92.0,28955.0,71816.0
+Army of Shadows,1969,Not Rated,145.0,"Drama, War",Jean-Pierre Melville,"Lino Ventura, Paul Meurisse, Jean-Pierre Cassel",8.1,99.0,27228.0,861983.0
+Blade Runner,1982,R,117.0,"Action, Drama, Sci-Fi",Ridley Scott,"Harrison Ford, Rutger Hauer, Sean Young",8.1,84.0,853389.0,32914489.0
+Samurai Rebellion,1967,Not Rated,128.0,Drama,Masaki Kobayashi,"Toshirô Mifune, Yôko Tsukasa, Gô Katô",8.3,90.0,14526.0,
+Close Up,1996,R,84.0,"Mystery, Thriller",Przemyslaw Reut,"Michael Mauro, Eric Leffler, Tom Straw",6.0,,72.0,
+The Circus,1928,G,72.0,"Comedy, Family, Romance",Charles Chaplin,"Charles Chaplin, Merna Kennedy, Al Ernest Garcia",8.1,90.0,36711.0,
+Raiders of the Lost Ark,1981,PG,115.0,"Action, Adventure",Steven Spielberg,"Harrison Ford, Karen Allen, Paul Freeman",8.4,86.0,1071698.0,248159971.0
+The Grand Illusion,1937,Not Rated,113.0,"Drama, War",Jean Renoir,"Jean Gabin, Dita Parlo, Pierre Fresnay",8.1,,39993.0,
+A Clockwork Orange,1971,R,136.0,"Crime, Sci-Fi",Stanley Kubrick,"Malcolm McDowell, Patrick Magee, Michael Bates",8.2,77.0,910590.0,26617553.0
+Eternal Sunshine of the Spotless Mind,2004,R,108.0,"Drama, Romance, Sci-Fi",Michel Gondry,"Jim Carrey, Kate Winslet, Tom Wilkinson",8.3,89.0,1135109.0,34400301.0
+A Woman Under the Influence,1974,R,155.0,"Drama, Romance",John Cassavetes,"Gena Rowlands, Peter Falk, Fred Draper",8.0,88.0,31141.0,13336830.0
+The Cranes Are Flying,1957,Not Rated,95.0,"Drama, Romance, War",Mikhail Kalatozov,"Tatyana Samoylova, Aleksey Batalov, Vasiliy Merkurev",8.3,,20490.0,17923.0
+Yi Yi,2000,Not Rated,173.0,"Drama, Romance",Edward Yang,"Nien-Jen Wu, Elaine Jin, Issei Ogata",8.1,94.0,30333.0,1136776.0
+To Kill a Mockingbird,1962,Approved,129.0,"Crime, Drama",Robert Mulligan,"Gregory Peck, John Megna, Frank Overton",8.3,88.0,340211.0,592237.0
+The Matrix,1999,R,136.0,"Action, Sci-Fi","Lana Wachowski, Lilly Wachowski","Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",8.7,73.0,2147060.0,172076928.0
+The Sting,1973,PG,129.0,"Comedy, Crime, Drama",George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw",8.3,83.0,289424.0,156000000.0
+The Mother and the Whore,1973,Not Rated,210.0,"Drama, Romance",Jean Eustache,"Bernadette Lafont, Jean-Pierre Léaud, Françoise Lebrun",7.7,89.0,7217.0,40555.0
+Se7en,1995,R,127.0,"Crime, Drama, Mystery",David Fincher,"Morgan Freeman, Brad Pitt, Kevin Spacey",8.6,65.0,1907628.0,101040643.0
+Early Summer,1951,Not Rated,125.0,"Comedy, Drama, Romance",Yasujirô Ozu,"Setsuko Hara, Chishû Ryû, Chikage Awashima",8.1,94.0,9910.0,
+Werckmeister Harmonies,2000,Not Rated,145.0,"Drama, Mystery","Béla Tarr, Ágnes Hranitzky","Lars Rudolph, Peter Fitz, Hanna Schygulla",8.0,93.0,16661.0,69923.0
+Coco,2017,PG,105.0,"Animation, Adventure, Drama","Lee Unkrich, Adrian Molina","Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",8.4,81.0,645660.0,210460015.0
+Toy Story,1995,G,81.0,"Animation, Adventure, Comedy",John Lasseter,"Tom Hanks, Tim Allen, Don Rickles",8.3,96.0,1118442.0,223225679.0
+It Happened One Night,1934,Approved,105.0,"Comedy, Romance",Frank Capra,"Clark Gable, Claudette Colbert, Walter Connolly",8.1,87.0,116674.0,
+Reservoir Dogs,1992,R,99.0,"Crime, Thriller",Quentin Tarantino,"Harvey Keitel, Tim Roth, Michael Madsen",8.3,81.0,1125778.0,2832029.0
+Unforgiven,1992,R,130.0,"Drama, Western",Clint Eastwood,"Clint Eastwood, Gene Hackman, Morgan Freeman",8.2,85.0,451680.0,101167799.0
+The Deer Hunter,1978,R,183.0,"Drama, War",Michael Cimino,"Robert De Niro, Christopher Walken, John Cazale",8.1,90.0,374425.0,48979328.0
+The Young and the Damned,1950,Not Rated,80.0,"Crime, Drama",Luis Buñuel,"Alfonso Mejía, Roberto Cobo, Estela Inda",8.2,,22473.0,
+The Best Years of Our Lives,1946,Approved,170.0,"Drama, Romance, War",William Wyler,"Myrna Loy, Dana Andrews, Fredric March",8.1,93.0,72322.0,23650000.0
+The Leopard,1963,PG,186.0,"Drama, History",Luchino Visconti,"Burt Lancaster, Alain Delon, Claudia Cardinale",7.9,100.0,32234.0,
+Time of the Gypsies,1988,R,142.0,"Comedy, Crime, Drama",Emir Kusturica,"Davor Dujmovic, Bora Todorovic, Ljubica Adzovic",8.1,,33615.0,280015.0
+Ali: Fear Eats the Soul,1974,Not Rated,93.0,"Drama, Romance",Rainer Werner Fassbinder,"Brigitte Mira, El Hedi ben Salem, Barbara Valentin",8.0,,24535.0,8144.0
+Raise the Red Lantern,1991,PG,125.0,"Drama, Romance",Yimou Zhang,"Gong Li, Jingwu Ma, Saifei He",8.1,,36007.0,2603061.0
+Terminator 2: Judgment Day,1991,R,137.0,"Action, Adventure, Sci-Fi",James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",8.6,75.0,1227716.0,205881154.0
+The Shining,1980,R,146.0,"Drama, Horror",Stanley Kubrick,"Jack Nicholson, Shelley Duvall, Danny Lloyd",8.4,68.0,1159098.0,45634352.0
+Portrait of a Lady on Fire,2019,R,122.0,"Drama, Romance",Céline Sciamma,"Noémie Merlant, Adèle Haenel, Luàna Bajrami",8.1,95.0,117622.0,3759854.0
+Viridiana,1961,Not Rated,91.0,Drama,Luis Buñuel,"Silvia Pinal, Francisco Rabal, Fernando Rey",8.0,,26759.0,
+Greed,1924,Not Rated,140.0,"Drama, Thriller, Western",Erich von Stroheim,"Gibson Gowland, Zasu Pitts, Jean Hersholt",8.0,,11018.0,
+Gone with the Wind,1939,G,238.0,"Drama, Romance, War",Victor Fleming,"Clark Gable, Vivien Leigh, Thomas Mitchell",8.2,97.0,346019.0,200882193.0
+There Will Be Blood,2007,R,158.0,Drama,Paul Thomas Anderson,"Daniel Day-Lewis, Paul Dano, Ciarán Hinds",8.2,93.0,668453.0,40222514.0
+LA Confidential: Trends in LA,2016,Not Rated,13.0,Reality-TV,,"Christian Rodrigo, Nuria Ansón",,,106136.0,
+"Paris, Texas",1984,R,145.0,Drama,Wim Wenders,"Harry Dean Stanton, Nastassja Kinski, Dean Stockwell",8.1,81.0,127596.0,2422082.0
+Throne of Blood,1957,Not Rated,110.0,Drama,Akira Kurosawa,"Toshirô Mifune, Minoru Chiaki, Isuzu Yamada",8.0,,57387.0,46808.0
+Toy Story 3,2010,G,103.0,"Animation, Adventure, Comedy",Lee Unkrich,"Tom Hanks, Tim Allen, Joan Cusack",8.3,92.0,929348.0,415004880.0
+Memento,2000,R,113.0,"Mystery, Thriller",Christopher Nolan,"Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",8.4,83.0,1374391.0,25544867.0
+On the Waterfront,1954,Approved,108.0,"Crime, Drama, Thriller",Elia Kazan,"Marlon Brando, Karl Malden, Lee J. Cobb",8.1,91.0,171628.0,
+A Trip to the Moon,1902,TV-G,13.0,"Short, Action, Adventure",Georges Méliès,"Georges Méliès, Victor André, Bleuette Bernon",8.1,,57320.0,
+The Rules of the Game,1939,Not Rated,110.0,"Comedy, Drama",Jean Renoir,"Marcel Dalio, Nora Gregor, Paulette Dubost",7.9,99.0,31917.0,273641.0
+Red Beard,1965,Not Rated,185.0,Drama,Akira Kurosawa,"Toshirô Mifune, Yûzô Kayama, Tsutomu Yamazaki",8.3,90.0,22035.0,46808.0
+The Grapes of Wrath,1940,Approved,129.0,Drama,John Ford,"Henry Fonda, Jane Darwell, John Carradine",8.1,96.0,102840.0,
+Au hasard Balthazar,1966,Not Rated,95.0,Drama,Robert Bresson,"Anne Wiazemsky, Walter Green, François Lafarge",7.7,98.0,23450.0,45406.0
+Autumn Sonata,1978,PG,99.0,"Drama, Music",Ingmar Bergman,"Ingrid Bergman, Liv Ullmann, Lena Nyman",8.1,,39416.0,
+Annie Hall,1977,PG,93.0,"Comedy, Romance",Woody Allen,"Woody Allen, Diane Keaton, Tony Roberts",7.9,92.0,283229.0,38251425.0
+The Conformist,1970,R,113.0,Drama,Bernardo Bertolucci,"Jean-Louis Trintignant, Stefania Sandrelli, Gastone Moschin",7.9,100.0,34656.0,238792.0
+Rocco and His Brothers,1960,Not Rated,179.0,"Crime, Drama, Sport",Luchino Visconti,"Alain Delon, Renato Salvatori, Annie Girardot",8.2,84.0,23038.0,
+Dersu Uzala,1975,G,142.0,"Adventure, Biography, Drama",Akira Kurosawa,"Maksim Munzuk, Yuriy Solomin, Mikhail Bychkov",8.2,,35025.0,
+Cool Hand Luke,1967,Approved,127.0,"Crime, Drama",Stuart Rosenberg,"Paul Newman, George Kennedy, Strother Martin",8.0,92.0,194198.0,
+Monty Python and the Holy Grail,1975,PG,91.0,"Adventure, Comedy, Fantasy","Terry Gilliam, Terry Jones","Graham Chapman, John Cleese, Eric Idle",8.2,91.0,583327.0,2562392.0
+Le Samourai,2011,Not Rated,22.0,"Documentary, Short",Ivan Faktor,,,,106136.0,
+Aliens,1986,R,137.0,"Action, Adventure, Horror",James Cameron,"Sigourney Weaver, Michael Biehn, Carrie Henn",8.4,84.0,808148.0,85160248.0
+Playtime,1967,Not Rated,155.0,Comedy,Jacques Tati,"Jacques Tati, Barbara Dennek, Rita Maiden",7.8,99.0,26768.0,
+The Bridge on the River Kwai,1957,PG,161.0,"Adventure, Drama, War",David Lean,"William Holden, Alec Guinness, Jack Hawkins",8.1,88.0,241306.0,27200000.0
+The Red Shoes,1948,Not Rated,135.0,"Drama, Music, Romance","Michael Powell, Emeric Pressburger","Anton Walbrook, Marius Goring, Moira Shearer",8.1,,41252.0,
+American Beauty,1999,R,122.0,Drama,Sam Mendes,"Kevin Spacey, Annette Bening, Thora Birch",8.3,84.0,1247771.0,130096601.0
+To Live,1994,Not Rated,133.0,"Drama, War",Yimou Zhang,"You Ge, Gong Li, Ben Niu",8.3,,21192.0,2332728.0
+Battleship Potemkin,1925,Not Rated,66.0,"Drama, History, Thriller",Sergei Eisenstein,"Aleksandr Antonov, Vladimir Barskiy, Grigoriy Aleksandrov",7.9,97.0,62849.0,51198.0
+Day of Wrath,1943,Not Rated,110.0,"Drama, History",Carl Theodor Dreyer,"Thorkild Roose, Lisbeth Movin, Sigrid Neiiendam",8.1,,11439.0,7642.0
+All Quiet on the Western Front,2022,R,148.0,"Drama, History, War",Edward Berger,"Felix Kammerer, Albrecht Schuch, Aaron Hilmer",7.8,76.0,272532.0,
+It's Such a Beautiful Day,2011,Not Rated,23.0,"Animation, Short, Drama",Don Hertzfeldt,"Sara Cushman, Don Hertzfeldt",8.5,82.0,3347.0,
+Full Metal Jacket,1987,R,116.0,"Drama, War",Stanley Kubrick,"Matthew Modine, R. Lee Ermey, Vincent D'Onofrio",8.2,78.0,820847.0,46357676.0
+The Cabinet of Dr. Caligari,1920,Not Rated,67.0,"Horror, Mystery, Thriller",Robert Wiene,"Werner Krauss, Conrad Veidt, Friedrich Feher",8.0,,73341.0,8811.0
+Kes,1969,PG-13,111.0,"Drama, Family",Ken Loach,"David Bradley, Brian Glover, Freddie Fletcher",7.9,,23529.0,
+The Usual Suspects,1995,R,106.0,"Crime, Drama, Mystery",Bryan Singer,"Kevin Spacey, Gabriel Byrne, Chazz Palminteri",8.5,76.0,1188114.0,23341568.0
+The Cameraman,1928,Passed,76.0,"Comedy, Drama, Family","Edward Sedgwick, Buster Keaton","Buster Keaton, Marceline Day, Harold Goodwin",8.0,,13471.0,
+Aparajito,1956,Not Rated,110.0,Drama,Satyajit Ray,"Pinaki Sengupta, Smaran Ghosal, Kamala Adhikari",8.2,,16466.0,134241.0
+The Elephant Man,1980,PG,124.0,"Biography, Drama",David Lynch,"Anthony Hopkins, John Hurt, Anne Bancroft",8.2,78.0,268017.0,26010864.0
+Rebecca,1940,Approved,130.0,"Drama, Mystery, Romance",Alfred Hitchcock,"Laurence Olivier, Joan Fontaine, George Sanders",8.1,86.0,151018.0,
+Make Way for Tomorrow,1937,Approved,91.0,"Drama, Romance",Leo McCarey,"Victor Moore, Beulah Bondi, Fay Bainter",8.2,,9761.0,
+The Great Escape,1963,Approved,172.0,"Adventure, Drama, Thriller",John Sturges,"Steve McQueen, James Garner, Richard Attenborough",8.2,86.0,267613.0,
+Your Name,2015,Not Rated,22.0,Short,Megumi Shiraishi,,8.9,,289.0,
+Limelight,1952,G,137.0,"Drama, Music, Romance",Charles Chaplin,"Charles Chaplin, Claire Bloom, Nigel Bruce",8.0,84.0,22864.0,
+Breathless,1960,Not Rated,90.0,"Crime, Drama",Jean-Luc Godard,"Jean-Paul Belmondo, Jean Seberg, Richard Balducci",7.7,,90959.0,414173.0
+Underground,1995,Not Rated,167.0,"Comedy, Drama, Fantasy",Emir Kusturica,"Predrag 'Miki' Manojlovic, Lazar Ristovski, Mirjana Jokovic",8.0,79.0,62306.0,171082.0
+The Man Who Shot Liberty Valance,1962,Approved,123.0,"Drama, Western",John Ford,"James Stewart, John Wayne, Vera Miles",8.1,94.0,84587.0,
+"Aguirre, the Wrath of God",1972,Not Rated,95.0,"Action, Adventure, Biography",Werner Herzog,"Klaus Kinski, Ruy Guerra, Helena Rojo",7.8,,65191.0,
+Oldboy,2003,R,120.0,"Action, Drama, Mystery",Park Chan-wook,"Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",8.3,78.0,672998.0,2458200.0
+Up,2009,PG,96.0,"Animation, Adventure, Comedy","Pete Docter, Bob Peterson","Edward Asner, Jordan Nagai, John Ratzenberger",8.3,88.0,1166741.0,293004164.0
+Anatomy of a Murder,1959,Approved,161.0,"Drama, Mystery",Otto Preminger,"James Stewart, Lee Remick, Ben Gazzara",8.0,95.0,74147.0,11900000.0
+The Wild Bunch,1969,R,135.0,"Action, Adventure, Drama",Sam Peckinpah,"William Holden, Ernest Borgnine, Robert Ryan",7.9,98.0,92113.0,638641.0
+The Hunt (2012),2012,Not Rated,115.5,Talk-Show,,"Jake De Agrela, Zeke Morgan-Hind",,,106136.0,
+Ettore Scola on 'Il Sorpasso',2014,Not Rated,14.0,"Documentary, Short",,"Ettore Scola, Jean-Louis Trintignant",,,106136.0,
+The Last Laugh,1924,Not Rated,90.0,"Drama, Horror",F.W. Murnau,"Emil Jannings, Maly Delschaft, Max Hiller",8.0,,15504.0,94812.0
+A Streetcar Named Desire,1951,Approved,122.0,Drama,Elia Kazan,"Vivien Leigh, Marlon Brando, Kim Hunter",7.9,97.0,116820.0,
+Life Is Beautiful,1997,PG-13,116.0,"Comedy, Drama, Romance",Roberto Benigni,"Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",8.6,58.0,776195.0,57563264.0
+A Short Film About Love,1988,Not Rated,87.0,"Drama, Romance",Krzysztof Kieslowski,"Grazyna Szapolowska, Olaf Lubaszenko, Stefania Iwinska",8.1,,26849.0,
+The Shop on Main Street,1965,Not Rated,128.0,"Drama, War","Ján Kadár, Elmar Klos","Ida Kaminska, Jozef Kroner, Frantisek Zvarík",8.2,,10017.0,
+Rio Bravo,1959,Approved,141.0,Western,Howard Hawks,"John Wayne, Dean Martin, Ricky Nelson",8.0,93.0,69824.0,12535000.0
+Roman Holiday,1953,Approved,118.0,"Comedy, Drama, Romance",William Wyler,"Gregory Peck, Audrey Hepburn, Eddie Albert",8.0,78.0,151666.0,
+Ivan's Childhood,1962,Not Rated,95.0,"Drama, War","Andrei Tarkovsky, Eduard Abalov","Nikolay Burlyaev, Valentin Zubkov, Evgeniy Zharikov",8.0,,41167.0,22168.0
+The Exterminating Angel,1962,Not Rated,95.0,"Drama, Fantasy",Luis Buñuel,"Silvia Pinal, Jacqueline Andere, Enrique Rambal",8.0,,36516.0,
+Trainspotting,1996,R,93.0,Drama,Danny Boyle,"Ewan McGregor, Ewen Bremner, Jonny Lee Miller",8.1,83.0,748865.0,16491080.0
+The Last Picture Show,1971,R,118.0,"Drama, Romance",Peter Bogdanovich,"Timothy Bottoms, Jeff Bridges, Cybill Shepherd",8.0,93.0,54812.0,29133000.0
+The Truman Show,1998,PG,103.0,"Comedy, Drama",Peter Weir,"Jim Carrey, Ed Harris, Laura Linney",8.2,90.0,1265103.0,125618201.0
+Memories of Murder,2003,Not Rated,132.0,"Crime, Drama, Mystery",Bong Joon Ho,"Song Kang-ho, Kim Sang-kyung, Kim Roe-ha",8.1,82.0,238839.0,15357.0
+Faust,1926,Not Rated,107.0,"Drama, Fantasy, Horror",F.W. Murnau,"Gösta Ekman, Emil Jannings, Camilla Horn",8.1,,17097.0,
+Sans Soleil,1983,Not Rated,100.0,"Documentary, Drama",Chris Marker,"Amilcar Cabral, Florence Delay, Arielle Dombasle",7.7,,12404.0,30878.0
+Song of the Sea,2014,PG,93.0,"Animation, Adventure, Drama",Tomm Moore,"David Rawle, Brendan Gleeson, Lisa Hannigan",8.0,85.0,65736.0,857522.0
+Leon: The Professional (1994),1994,Not Rated,104.0,Talk-Show,,"Colin Boyd, Dave Harris, Marcus Kazmierczak",,,106136.0,
+Fargo,1996,R,98.0,"Crime, Drama, Thriller","Joel Coen, Ethan Coen","William H. Macy, Frances McDormand, Steve Buscemi",8.1,88.0,753704.0,24611975.0
+Solaris,1972,PG,167.0,"Drama, Mystery, Sci-Fi",Andrei Tarkovsky,"Natalya Bondarchuk, Donatas Banionis, Jüri Järvet",7.9,93.0,100991.0,22168.0
+Sweet Smell of Success,1957,Approved,96.0,"Drama, Film-Noir",Alexander Mackendrick,"Burt Lancaster, Tony Curtis, Susan Harrison",8.0,100.0,37956.0,
+For a Few Dollars More,1965,R,132.0,"Drama, Western",Sergio Leone,"Clint Eastwood, Lee Van Cleef, Gian Maria Volontè",8.2,74.0,287126.0,15000000.0
+White Heat,1949,Approved,114.0,"Action, Crime, Drama",Raoul Walsh,"James Cagney, Virginia Mayo, Edmond O'Brien",8.1,89.0,36883.0,
+Brief Encounter,1945,Approved,86.0,"Drama, Romance",David Lean,"Celia Johnson, Trevor Howard, Stanley Holloway",8.0,92.0,45780.0,
+Wings of Desire,1987,PG-13,128.0,"Drama, Fantasy, Romance",Wim Wenders,"Bruno Ganz, Solveig Dommartin, Otto Sander",7.9,79.0,80436.0,3333969.0
+Les Diaboliques-Remix,2018,Not Rated,45.0,"Drama, Thriller",Hugues Sanchez,,,,106136.0,
+An Autumn Afternoon,1962,Not Rated,113.0,Drama,Yasujirô Ozu,"Chishû Ryû, Shima Iwashita, Keiji Sada",8.0,91.0,11140.0,
+The Tale of The Princess Kaguya,2013,PG,137.0,"Animation, Drama, Family",Isao Takahata,"Chloë Grace Moretz, James Caan, Mary Steenburgen",8.0,89.0,58154.0,974913.0
+Amarcord,1973,R,123.0,"Comedy, Drama",Federico Fellini,"Magali Noël, Bruno Zanin, Pupella Maggio",7.8,,49685.0,125493.0
+313: Heat (1995),1995,Not Rated,115.5,,,,,,106136.0,
+L'Atalante,1934,Not Rated,89.0,"Comedy, Drama, Romance",Jean Vigo,"Dita Parlo, Jean Dasté, Gilles Margaritis",7.7,,17844.0,
+Django Unchained,2012,R,165.0,"Comedy, Drama, Western",Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",8.5,81.0,1763019.0,162805434.0
+"Jeanne Dielman, 23, quai du commerce, 1080 Bruxelles",1975,Not Rated,202.0,Drama,Chantal Akerman,"Delphine Seyrig, Jan Decorte, Henri Storck",7.5,94.0,14961.0,19858.0
+Kind Hearts and Coronets,1949,Approved,106.0,"Comedy, Crime",Robert Hamer,"Dennis Price, Alec Guinness, Valerie Hobson",8.0,,40748.0,35948.0
+Dog Day Afternoon,1975,R,125.0,"Biography, Crime, Drama",Sidney Lumet,"Al Pacino, John Cazale, Penelope Allen",8.0,86.0,279441.0,50000000.0
+Forbidden Games,1952,Not Rated,86.0,"Drama, War",René Clément,"Georges Poujouly, Brigitte Fossey, Amédée",8.0,,13419.0,19889.0
+The Crowd,1928,Not Rated,98.0,"Drama, Romance",King Vidor,"Eleanor Boardman, James Murray, Bert Roach",8.1,,9436.0,
+Notorious,1946,Approved,102.0,"Drama, Film-Noir, Romance",Alfred Hitchcock,"Cary Grant, Ingrid Bergman, Claude Rains",7.9,100.0,109703.0,
+Mary and Max,2009,Not Rated,92.0,"Animation, Comedy, Drama",Adam Elliot,"Toni Collette, Philip Seymour Hoffman, Eric Bana",8.1,72.0,195504.0,
+Persepolis,2007,PG-13,96.0,"Animation, Biography, Drama","Vincent Paronnaud, Marjane Satrapi","Chiara Mastroianni, Catherine Deneuve, Gena Rowlands",8.0,90.0,102680.0,4445756.0
+Howl's Moving Castle,2004,PG,119.0,"Animation, Adventure, Family",Hayao Miyazaki,"Chieko Baishô, Takuya Kimura, Tatsuya Gashûin",8.2,82.0,480420.0,9173958.0
+Behind the Microphone: Nausicaa of the Valley of the Wind,2005,Not Rated,115.5,Short,,"Mark Hamill, Shia LaBeouf, Alison Lohman, Edward James Olmos",7.8,,20.0,
+Safety Last!,1923,Not Rated,74.0,"Action, Comedy, Thriller","Fred C. Newmeyer, Sam Taylor","Harold Lloyd, Mildred Davis, Bill Strother",8.1,,23503.0,
+Rosemary's Baby,1968,R,137.0,"Drama, Horror",Roman Polanski,"Mia Farrow, John Cassavetes, Ruth Gordon",8.0,96.0,246880.0,
+L'Avventura,1960,Not Rated,144.0,"Drama, Mystery, Romance",Michelangelo Antonioni,"Gabriele Ferzetti, Monica Vitti, Lea Massari",7.7,,34571.0,
+The Searchers,1956,Approved,119.0,"Adventure, Drama, Western",John Ford,"John Wayne, Jeffrey Hunter, Vera Miles",7.8,94.0,99240.0,
+La haine,1995,Not Rated,98.0,"Crime, Drama",Mathieu Kassovitz,"Vincent Cassel, Hubert Koundé, Saïd Taghmaoui",8.1,,210325.0,280859.0
+Three Colors: Blue,1993,R,98.0,"Drama, Music, Mystery",Krzysztof Kieslowski,"Juliette Binoche, Zbigniew Zamachowski, Julie Delpy",7.8,87.0,114860.0,1324974.0
+Chungking Express,1994,PG-13,102.0,"Comedy, Crime, Drama",Wong Kar-Wai,"Brigitte Lin, Takeshi Kaneshiro, Tony Leung Chiu-wai",7.9,78.0,103152.0,600200.0
+Inside Out,2015,PG,95.0,"Animation, Adventure, Comedy","Pete Docter, Ronnie Del Carmen","Amy Poehler, Bill Hader, Lewis Black",8.1,94.0,862834.0,356461711.0
+On Solace: Video Essay for Cries and Whispers,2015,Not Rated,13.0,"Documentary, Short",Kogonada,,,,7.0,
+Napoleon,2023,R,158.0,"Action, Adventure, Biography",Ridley Scott,"Joaquin Phoenix, Vanessa Kirby, Tahar Rahim",6.3,64.0,164598.0,61524375.0
+Paper Moon,1973,PG,102.0,"Comedy, Crime, Drama",Peter Bogdanovich,"Ryan O'Neal, Tatum O'Neal, Madeline Kahn",8.1,77.0,54159.0,
+The Spirit of the Beehive,1973,Not Rated,98.0,"Drama, Fantasy",Víctor Erice,"Fernando Fernán Gómez, Teresa Gimpera, Ana Torrent",7.8,87.0,21262.0,
+A Special Day,1977,Approved,103.0,Drama,Ettore Scola,"Sophia Loren, Marcello Mastroianni, John Vernon",8.1,,16698.0,
+Nostalghia,1983,Not Rated,125.0,Drama,Andrei Tarkovsky,"Oleg Yankovskiy, Erland Josephson, Domiziana Giordano",7.9,,30964.0,303022.0
+Network,1976,R,121.0,Drama,Sidney Lumet,"Faye Dunaway, William Holden, Peter Finch",8.1,83.0,176692.0,23689877.0
+L'Eclisse,1962,Not Rated,126.0,"Drama, Romance",Michelangelo Antonioni,"Monica Vitti, Alain Delon, Francisco Rabal",7.7,,22903.0,
+Mr. Smith Goes to Washington,1939,Approved,129.0,"Comedy, Drama",Frank Capra,"James Stewart, Jean Arthur, Claude Rains",8.1,73.0,124502.0,144738.0
+Sanjuro,1962,Not Rated,96.0,"Action, Drama, Thriller",Akira Kurosawa,"Toshirô Mifune, Tatsuya Nakadai, Keiju Kobayashi",8.0,83.0,42734.0,46808.0
+Badlands,1973,PG,94.0,"Action, Crime, Drama",Terrence Malick,"Martin Sheen, Sissy Spacek, Warren Oates",7.7,94.0,81283.0,
+Vivre sa vie,1962,Not Rated,85.0,Drama,Jean-Luc Godard,"Anna Karina, Sady Rebbot, André S. Labarthe",7.8,,36059.0,24517.0
+Nobody Knows,2004,PG-13,141.0,Drama,Hirokazu Koreeda,"Yûya Yagira, Ayu Kitaura, Hiei Kimura",8.0,88.0,32976.0,684118.0
+No Country for Old Men,2007,R,122.0,"Crime, Drama, Thriller","Ethan Coen, Joel Coen","Tommy Lee Jones, Javier Bardem, Josh Brolin",8.2,92.0,1120666.0,74283625.0
+"Spring, Summer, Fall, Winter... and Spring",2003,R,103.0,"Drama, Romance",Kim Ki-duk,"Kim Ki-duk, Oh Yeong-su, Jong-ho Kim",8.0,85.0,88065.0,2380788.0
+La Notte,1961,Not Rated,122.0,Drama,Michelangelo Antonioni,"Jeanne Moreau, Marcello Mastroianni, Monica Vitti",7.9,,24773.0,39236.0
+The Celebration,1998,R,105.0,Drama,Thomas Vinterberg,"Ulrich Thomsen, Henning Moritzen, Thomas Bo Larsen",8.0,82.0,95318.0,1656223.0
+In the Name of the Father,1993,R,133.0,"Biography, Crime, Drama",Jim Sheridan,"Daniel Day-Lewis, Pete Postlethwaite, Alison Crosbie",8.1,84.0,194543.0,25096862.0
+I Am a Fugitive from a Chain Gang,1932,Approved,92.0,"Crime, Drama, Film-Noir",Mervyn LeRoy,"Paul Muni, Glenda Farrell, Helen Vinson",8.2,,14860.0,
+Shoplifters,2018,R,121.0,"Crime, Drama, Thriller",Hirokazu Koreeda,"Lily Franky, Sakura Andô, Kirin Kiki",7.9,93.0,89783.0,3313513.0
+Finding Nemo,2003,G,100.0,"Animation, Adventure, Comedy","Andrew Stanton, Lee Unkrich","Albert Brooks, Ellen DeGeneres, Alexander Gould",8.2,90.0,1157141.0,380843261.0
+Z,1969,M/PG,127.0,"Crime, Drama, Thriller",Costa-Gavras,"Yves Montand, Irene Papas, Jean-Louis Trintignant",8.1,86.0,32517.0,83305.0
+The Phantom Carriage,1921,Not Rated,107.0,"Drama, Fantasy, Horror",Victor Sjöström,"Victor Sjöström, Hilda Borgström, Tore Svennberg",8.0,,14785.0,
+Manhattan,1979,R,96.0,"Comedy, Drama, Romance",Woody Allen,"Woody Allen, Diane Keaton, Mariel Hemingway",7.8,83.0,150057.0,39946780.0
+"Rome, Open City",1945,Not Rated,103.0,"Drama, Thriller, War",Roberto Rossellini,"Anna Magnani, Aldo Fabrizi, Marcello Pagliero",8.0,,29951.0,
+Children of Heaven,1997,PG,89.0,"Drama, Family, Sport",Majid Majidi,"Reza Naji, Amir Farrokh Hashemian, Bahare Seddiqi",8.2,77.0,84868.0,933933.0
+The Green Mile,1999,R,189.0,"Crime, Drama, Fantasy",Frank Darabont,"Tom Hanks, Michael Clarke Duncan, David Morse",8.6,61.0,1479139.0,136801374.0
+The Iron Giant,1999,PG,86.0,"Animation, Action, Adventure",Brad Bird,"Eli Marienthal, Harry Connick Jr., Jennifer Aniston",8.1,85.0,244452.0,23315035.0
+The Sacrifice,1986,PG,149.0,Drama,Andrei Tarkovsky,"Erland Josephson, Susan Fleetwood, Allan Edwall",7.9,85.0,32627.0,200506.0
+The Philadelphia Story,1940,Approved,112.0,"Comedy, Romance",George Cukor,"Cary Grant, Katharine Hepburn, James Stewart",7.8,96.0,76232.0,404524.0
+The Twilight Samurai,2002,Not Rated,129.0,"Drama, Romance",Yôji Yamada,"Hiroyuki Sanada, Rie Miyazawa, Nenji Kobayashi",8.1,82.0,26098.0,559765.0
+Before Sunset,2004,R,80.0,"Drama, Romance",Richard Linklater,"Ethan Hawke, Julie Delpy, Vernon Dobtcheff",8.1,91.0,297233.0,5820649.0
+Before Sunrise,1995,R,101.0,"Comedy, Drama, Romance",Richard Linklater,"Ethan Hawke, Julie Delpy, Andrea Eckert",8.1,79.0,358305.0,5535405.0
+Castle in the Sky,1986,PG,124.0,"Animation, Adventure, Family",Hayao Miyazaki,"Mayumi Tanaka, Keiko Yokozawa, Kotoe Hatsui",8.0,78.0,190489.0,523664.0
+The Departed,2006,R,151.0,"Crime, Drama, Thriller",Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",8.5,85.0,1481779.0,132399394.0
+Brazil,1985,R,132.0,"Drama, Sci-Fi, Thriller",Terry Gilliam,"Jonathan Pryce, Kim Greist, Robert De Niro",7.8,84.0,216414.0,9929135.0
+Incendies,2010,R,131.0,"Drama, Mystery, War",Denis Villeneuve,"Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette",8.3,80.0,223004.0,2071334.0
+The Maltese Falcon,1941,Approved,100.0,"Crime, Drama, Film-Noir",John Huston,"Humphrey Bogart, Mary Astor, Gladys George",7.9,97.0,170325.0,18180.0
+The Lobster (2015)/The Wizard of Oz (1939) - 92 Movie Buff Specialists (Ep 9),2015,Not Rated,115.5,,,,,,106136.0,
+Le Cercle Rouge,2021,Not Rated,1.0,"Animation, Short",Iulia Voitova,,,,106136.0,
+Monsieur Verdoux,1947,Approved,124.0,"Comedy, Crime, Drama",Charles Chaplin,"Charles Chaplin, Mady Correll, Allison Roddan",7.8,,19567.0,64636.0
+The Return,2003,Not Rated,110.0,Drama,Andrey Zvyagintsev,"Vladimir Garin, Ivan Dobronravov, Konstantin Lavronenko",7.9,82.0,48111.0,504256.0
+"Secrets, Lies & Private Eyes",2021,Not Rated,115.5,Documentary,,"Heather Cohen, Amy Gadd, Sheila McPhilamy",7.3,,47.0,
+The Hidden Fortress,1958,Not Rated,126.0,"Adventure, Drama",Akira Kurosawa,"Toshirô Mifune, Misa Uehara, Minoru Chiaki",8.0,89.0,43933.0,46808.0
+Pan's Labyrinth,2006,R,118.0,"Drama, Fantasy, War",Guillermo del Toro,"Ivana Baquero, Ariadna Gil, Sergi López",8.2,98.0,724170.0,37646380.0
+Amelie,2017,Not Rated,115.5,Short,"Aurore Damant, Aurore Deman",Marie Carrour,,,106136.0,
+Ben-Hur,1959,G,212.0,"Adventure, Drama",William Wyler,"Charlton Heston, Jack Hawkins, Stephen Boyd",8.1,90.0,261076.0,74432704.0
+Fitzcarraldo,1982,PG,158.0,"Adventure, Drama",Werner Herzog,"Klaus Kinski, Claudia Cardinale, José Lewgoy",8.0,,39984.0,
+American History X,1998,R,119.0,"Crime, Drama",Tony Kaye,"Edward Norton, Edward Furlong, Beverly D'Angelo",8.5,62.0,1227630.0,6719864.0
+Ace in the Hole,1951,Approved,111.0,"Drama, Film-Noir",Billy Wilder,"Kirk Douglas, Jan Sterling, Robert Arthur",8.1,72.0,40295.0,
+Capernaum,2018,R,126.0,Drama,Nadine Labaki,"Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole",8.4,75.0,115409.0,1661096.0
+Still Walking,2008,Not Rated,115.0,Drama,Hirokazu Koreeda,"Hiroshi Abe, Yui Natsukawa, You",7.9,89.0,19741.0,167047.0
+All About My Mother,1999,R,101.0,"Comedy, Drama, Romance",Pedro Almodóvar,"Cecilia Roth, Marisa Paredes, Candela Peña",7.8,87.0,106136.0,8344738.0
+The Discreet Charm of the Bourgeoisie,1972,PG,102.0,"Comedy, Drama, Fantasy",Luis Buñuel,"Fernando Rey, Delphine Seyrig, Paul Frankeur",7.8,93.0,47825.0,82471.0
+Platoon,1986,R,120.0,"Drama, War",Oliver Stone,"Charlie Sheen, Tom Berenger, Willem Dafoe",8.1,92.0,455647.0,138530565.0
+Farewell My Concubine,1993,R,171.0,"Drama, Music, Romance",Kaige Chen,"Leslie Cheung, Fengyi Zhang, Gong Li",8.1,83.0,34245.0,5549086.0
+Letter from an Unknown Woman,1948,Approved,87.0,"Drama, Romance",Max Ophüls,"Joan Fontaine, Louis Jourdan, Mady Christians",7.9,,14139.0,
+The Grand Budapest Hotel,2014,R,99.0,"Comedy, Drama",Wes Anderson,"Ralph Fiennes, F. Murray Abraham, Mathieu Amalric",8.1,88.0,925564.0,59301324.0
+The Virgin Spring,1960,Not Rated,89.0,Drama,Ingmar Bergman,"Max von Sydow, Birgitta Valberg, Gunnel Lindblom",8.0,,32583.0,
+The Red Balloon,1956,Not Rated,34.0,"Short, Comedy, Drama",Albert Lamorisse,"Pascal Lamorisse, Sabine Lamorisse, Georges Sellier",8.1,,20715.0,34570.0
+Stagecoach,1939,Approved,96.0,"Adventure, Drama, Western",John Ford,"John Wayne, Claire Trevor, Andy Devine",7.8,93.0,55498.0,
+Mulholland Drive,2001,R,147.0,"Drama, Mystery, Thriller",David Lynch,"Naomi Watts, Laura Harring, Justin Theroux",7.9,87.0,406481.0,7220243.0
+A Matter of Life and Death,1946,PG,104.0,"Drama, Fantasy, Romance","Michael Powell, Emeric Pressburger","David Niven, Kim Hunter, Robert Coote",8.0,,26640.0,
+High Noon,1952,PG,85.0,"Drama, Thriller, Western",Fred Zinnemann,"Gary Cooper, Grace Kelly, Thomas Mitchell",7.9,89.0,113334.0,
+Orpheus,1950,Not Rated,112.0,"Drama, Fantasy, Romance",Jean Cocteau,"Jean Marais, François Périer, María Casares",7.9,,13978.0,
+Monty Python's Life of Brian,1979,R,94.0,Comedy,Terry Jones,"Graham Chapman, John Cleese, Michael Palin",8.0,77.0,425767.0,20206622.0
+Casino,1995,R,178.0,"Crime, Drama",Martin Scorsese,"Robert De Niro, Sharon Stone, Joe Pesci",8.2,73.0,587997.0,42512375.0
+Kagemusha: The Shadow Warrior,1980,PG,162.0,"Drama, History, War",Akira Kurosawa,"Tatsuya Nakadai, Tsutomu Yamazaki, Ken'ichi Hagiwara",7.9,84.0,39515.0,4000000.0
+Butch Cassidy and the Sundance Kid,1969,PG,110.0,"Biography, Crime, Drama",George Roy Hill,"Paul Newman, Robert Redford, Katharine Ross",8.0,66.0,231870.0,102308889.0
+In a Lonely Place,1950,Approved,94.0,"Drama, Film-Noir, Mystery",Nicholas Ray,"Humphrey Bogart, Gloria Grahame, Frank Lovejoy",7.9,,36803.0,
+Unqualified Observers 47: Scarface (1983) with Special Guests Reg! and Playmaker from Stimpson Ain't Easy,1983,Not Rated,115.5,,,,,,106136.0,
+A Short Film About Killing,1988,Not Rated,84.0,"Crime, Drama",Krzysztof Kieslowski,"Miroslaw Baka, Krzysztof Globisz, Jan Tesarz",8.0,,23178.0,
+238: Lethal Weapon (1987) & Green Room (2015),1987,Not Rated,115.5,,,,,,106136.0,
+Beauty and the Beast,1991,G,84.0,"Animation, Family, Fantasy","Gary Trousdale, Kirk Wise","Paige O'Hara, Robby Benson, Jesse Corti",8.0,95.0,492170.0,218967620.0
+The Hustler,1961,Approved,134.0,"Drama, Sport",Robert Rossen,"Paul Newman, Jackie Gleason, Piper Laurie",7.9,90.0,88252.0,
+Cléo from 5 to 7,1962,Not Rated,90.0,"Comedy, Drama, Music",Agnès Varda,"Corinne Marchand, Antoine Bourseiller, Dominique Davray",7.8,87.0,28861.0,
+Mad Max: Fury Road,2015,R,120.0,"Action, Adventure, Sci-Fi",George Miller,"Tom Hardy, Charlize Theron, Nicholas Hoult",8.1,90.0,1164488.0,154280290.0
+"Steamboat Bill, Jr.",1928,Not Rated,70.0,"Action, Comedy, Drama","Charles Reisner, Buster Keaton","Buster Keaton, Tom McGuire, Ernest Torrence",7.8,,16421.0,
+Judgment at Nuremberg,1961,Approved,179.0,"Drama, War",Stanley Kramer,"Spencer Tracy, Burt Lancaster, Richard Widmark",8.3,60.0,88994.0,
+The Straight Story,1999,G,112.0,"Biography, Drama",David Lynch,"Richard Farnsworth, Sissy Spacek, Jane Galloway Heitz",8.0,86.0,103218.0,6203044.0
+Meshes of the Afternoon,1943,Not Rated,14.0,"Short, Fantasy, Mystery","Maya Deren, Alexander Hammid","Maya Deren, Alexander Hammid",7.8,,15588.0,
+Alice in the Cities,1974,Not Rated,113.0,Drama,Wim Wenders,"Yella Rottländer, Rüdiger Vogler, Lisa Kreuzer",7.9,78.0,13847.0,
+Akira,1988,R,124.0,"Animation, Drama, Fantasy",Katsuhiro Ôtomo,"Mitsuo Iwata, Nozomu Sasaki, Mami Koyama",8.0,68.0,211413.0,553171.0
+Good Will Hunting,1997,R,126.0,"Drama, Romance",Gus Van Sant,"Robin Williams, Matt Damon, Ben Affleck",8.3,71.0,1132382.0,138433435.0
+The Miracle Worker,1962,Approved,106.0,"Biography, Drama",Arthur Penn,"Anne Bancroft, Patty Duke, Victor Jory",8.1,83.0,21082.0,
+Talk to Her,2002,R,112.0,"Drama, Mystery, Romance",Pedro Almodóvar,"Rosario Flores, Javier Cámara, Darío Grandinetti",7.9,86.0,119929.0,9357911.0
+The Graduate,1967,PG,106.0,"Comedy, Drama, Romance",Mike Nichols,"Dustin Hoffman, Anne Bancroft, Katharine Ross",8.0,83.0,296344.0,104945305.0
+Beauty and the Beast (1991),1991,Not Rated,115.5,Talk-Show,,,,,106136.0,
+The Heiress,1949,Approved,115.0,"Drama, Romance",William Wyler,"Olivia de Havilland, Montgomery Clift, Ralph Richardson",8.1,,17772.0,
+Fantasia,1940,G,124.0,"Animation, Family, Fantasy","James Algar, Samuel Armstrong, Ford Beebe Jr.","Leopold Stokowski, Deems Taylor, The Philadelphia Orchestra",7.7,96.0,107357.0,76408097.0
+Au Revoir les Enfants,1987,PG,104.0,"Drama, War",Louis Malle,"Gaspard Manesse, Raphael Fejtö, Francine Racette",8.0,88.0,36834.0,4542825.0
+"Three Billboards Outside Ebbing, Missouri",2017,R,115.0,"Comedy, Crime, Drama",Martin McDonagh,"Frances McDormand, Woody Harrelson, Sam Rockwell",8.1,88.0,574280.0,54513740.0
+Inglourious Basterds,2009,R,153.0,"Adventure, Drama, War",Quentin Tarantino,"Brad Pitt, Diane Kruger, Eli Roth",8.4,69.0,1679699.0,120540719.0
+Elevator to the Gallows,1958,Not Rated,91.0,"Crime, Drama, Thriller",Louis Malle,"Jeanne Moreau, Maurice Ronet, Georges Poujouly",7.9,94.0,29551.0,374671.0
+Braveheart (1995) vs. Gladiator (2000),1995,Not Rated,115.5,Documentary,"Jason Colvin, James Dee Graves","Jason Colvin, James Dee Graves",,,106136.0,
+Through a Glass Darkly,1961,Not Rated,90.0,Drama,Ingmar Bergman,"Harriet Andersson, Gunnar Björnstrand, Max von Sydow",7.9,84.0,28042.0,
+Million Dollar Baby,2004,PG-13,132.0,"Drama, Sport",Clint Eastwood,"Hilary Swank, Clint Eastwood, Morgan Freeman",8.1,86.0,745543.0,100492203.0
+Days of Heaven,1978,PG,94.0,"Drama, Romance",Terrence Malick,"Richard Gere, Brooke Adams, Sam Shepard",7.7,94.0,64822.0,3446749.0
+Do the Right Thing,1989,R,120.0,"Comedy, Drama",Spike Lee,"Danny Aiello, Ossie Davis, Ruby Dee",7.9,93.0,116307.0,27545445.0
+Out of the Past,1947,Approved,97.0,"Crime, Drama, Film-Noir",Jacques Tourneur,"Robert Mitchum, Jane Greer, Kirk Douglas",8.0,85.0,41771.0,
+Strangers on a Train,1951,PG,101.0,"Crime, Drama, Film-Noir",Alfred Hitchcock,"Farley Granger, Robert Walker, Ruth Roman",7.9,88.0,145316.0,26597.0
+Blue Velvet,1986,R,120.0,"Crime, Drama, Mystery",David Lynch,"Isabella Rossellini, Kyle MacLachlan, Dennis Hopper",7.7,75.0,231717.0,8551228.0
+That Obscure Object of Desire,1977,R,103.0,"Comedy, Drama, Romance",Luis Buñuel,"Fernando Rey, Carole Bouquet, Ángela Molina",7.8,84.0,25516.0,
+What Ever Happened to Baby Jane?,1962,Approved,134.0,"Drama, Horror, Thriller",Robert Aldrich,"Bette Davis, Joan Crawford, Victor Buono",8.0,75.0,63551.0,
+My Night at Maud's,1969,GP,105.0,"Comedy, Drama, Romance",Éric Rohmer,"Jean-Louis Trintignant, Françoise Fabian, Marie-Christine Barrault",7.8,,14935.0,
+The Earrings of Madame De...,1953,Not Rated,105.0,"Drama, Romance",Max Ophüls,"Charles Boyer, Danielle Darrieux, Vittorio De Sica",7.9,,11355.0,130561.0
+The Conversation,1974,PG,113.0,"Drama, Mystery, Thriller",Francis Ford Coppola,"Gene Hackman, John Cazale, Allen Garfield",7.7,88.0,130098.0,4852199.0
+Marriage Story,2019,R,137.0,"Drama, Romance",Noah Baumbach,"Adam Driver, Scarlett Johansson, Julia Greer",7.9,94.0,358019.0,
+The Killing,2011,TV-14,45.0,"Crime, Drama, Mystery",,"Mireille Enos, Joel Kinnaman, Billy Campbell",8.3,,126715.0,
+The Servant,1963,Unrated,116.0,Drama,Joseph Losey,"Dirk Bogarde, Sarah Miles, Wendy Craig",7.8,94.0,14606.0,45522.0
+The Intouchables,2011,R,112.0,"Comedy, Drama","Olivier Nakache, Éric Toledano","François Cluzet, Omar Sy, Anne Le Ny",8.5,57.0,976408.0,10198820.0
+The Life and Death of Colonel Blimp,1943,Approved,163.0,"Drama, Romance, War","Michael Powell, Emeric Pressburger","Roger Livesey, Deborah Kerr, Anton Walbrook",8.0,,17045.0,
+Jaws,1975,PG,124.0,"Adventure, Drama, Horror",Steven Spielberg,"Roy Scheider, Robert Shaw, Richard Dreyfuss",8.1,87.0,693111.0,267263625.0
+Winter Light,1963,Not Rated,81.0,Drama,Ingmar Bergman,"Ingrid Thulin, Gunnar Björnstrand, Gunnel Lindblom",8.0,,27834.0,
+Love Exposure,2008,Unrated,237.0,"Action, Comedy, Drama",Sion Sono,"Takahiro Nishijima, Hikari Mitsushima, Sakura Andô",8.0,78.0,16682.0,
+Hiroshima Mon Amour,1959,Not Rated,90.0,"Drama, Romance",Alain Resnais,"Emmanuelle Riva, Eiji Okada, Stella Dassas",7.8,,37371.0,96439.0
+Day for Night,1973,PG,116.0,"Comedy, Drama, Romance",François Truffaut,"Jacqueline Bisset, Jean-Pierre Léaud, François Truffaut",8.0,,25226.0,509.0
+Ratatouille,2007,G,111.0,"Animation, Adventure, Comedy","Brad Bird, Jan Pinkava","Brad Garrett, Lou Romano, Patton Oswalt",8.1,96.0,883425.0,206445654.0
+Ghost in the Shell,2017,PG-13,107.0,"Action, Crime, Drama",Rupert Sanders,"Scarlett Johansson, Pilou Asbæk, Takeshi Kitano",6.3,52.0,233381.0,40563557.0
+Germany Year Zero,1948,Not Rated,78.0,Drama,Roberto Rossellini,"Edmund Moeschke, Ernst Pittschau, Ingetraud Hinze",7.8,,14318.0,
+Spotlight,2015,R,129.0,"Biography, Crime, Drama",Tom McCarthy,"Mark Ruffalo, Michael Keaton, Rachel McAdams",8.1,93.0,514090.0,45055776.0
+Die Hard,1988,R,132.0,"Action, Thriller",John McTiernan,"Bruce Willis, Alan Rickman, Bonnie Bedelia",8.2,72.0,987460.0,85892546.0
+Laura,1944,Approved,88.0,"Drama, Film-Noir, Mystery","Otto Preminger, Rouben Mamoulian","Gene Tierney, Dana Andrews, Clifton Webb",7.9,,52736.0,
+Sleuth,1972,PG,138.0,"Mystery, Thriller",Joseph L. Mankiewicz,"Laurence Olivier, Michael Caine, Alec Cawthorne",7.9,,50869.0,4081254.0
+The Diving Bell and the Butterfly,2007,PG-13,112.0,"Biography, Drama",Julian Schnabel,"Mathieu Amalric, Emmanuelle Seigner, Marie-Josée Croze",8.0,92.0,111092.0,6003227.0
+The Handmaiden,2016,Not Rated,145.0,"Drama, Romance, Thriller",Park Chan-wook,"Kim Min-hee, Ha Jung-woo, Cho Jin-woong",8.1,85.0,185830.0,2006788.0
+Stand by Me,1986,R,89.0,"Adventure, Comedy, Drama",Rob Reiner,"Wil Wheaton, River Phoenix, Corey Feldman",8.1,75.0,462434.0,52287414.0
+Wolf Children,2012,PG,117.0,"Animation, Drama, Family",Mamoru Hosoda,"Aoi Miyazaki, Takao Osawa, Haru Kuroki",8.1,76.0,51984.0,
+Shoeshine,1946,Not Rated,91.0,Drama,Vittorio De Sica,"Rinaldo Smordoni, Franco Interlenghi, Annielo Mele",8.0,,8271.0,34677.0
+Freaks,1932,Not Rated,64.0,"Drama, Horror",Tod Browning,"Wallace Ford, Leila Hyams, Olga Baclanova",7.8,80.0,52525.0,
+Nosferatu,2024,R,132.0,"Fantasy, Horror, Mystery",Robert Eggers,"Lily-Rose Depp, Nicholas Hoult, Bill Skarsgård",7.3,78.0,189743.0,95608235.0
+Dial M for Murder,1954,PG,105.0,"Crime, Drama, Mystery",Alfred Hitchcock,"Ray Milland, Grace Kelly, Robert Cummings",8.2,75.0,197678.0,24845.0
+Amour,2012,PG-13,127.0,Drama,Michael Haneke,"Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert",7.9,95.0,107129.0,6739492.0
+12 Years a Slave,2013,R,134.0,"Biography, Drama, History",Steve McQueen,"Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender",8.1,96.0,763954.0,56671993.0
+The Nightmare Before Christmas,1993,PG,76.0,"Animation, Family, Fantasy",Henry Selick,"Danny Elfman, Chris Sarandon, Catherine O'Hara",7.9,82.0,394577.0,93745329.0
+Cabaret,1972,PG,124.0,"Drama, Music, Musical",Bob Fosse,"Liza Minnelli, Michael York, Helmut Griem",7.8,80.0,61681.0,
+Central Station,1998,R,110.0,Drama,Walter Salles,"Fernanda Montenegro, Vinícius de Oliveira, Marília Pêra",8.0,80.0,44366.0,5969553.0
+Landscape in the Mist,1988,TV-MA,127.0,Drama,Theodoros Angelopoulos,"Michalis Zeke, Tania Palaiologou, Stratos Tzortzoglou",7.9,,10049.0,
+1917,2019,R,119.0,"Action, Drama, War",Sam Mendes,"Dean-Charles Chapman, George MacKay, Daniel Mays",8.2,78.0,725123.0,159227644.0
+Call Me by Your Name,2017,R,132.0,"Drama, Romance",Luca Guadagnino,"Timothée Chalamet, Armie Hammer, Michael Stuhlbarg",7.8,94.0,333865.0,18095701.0
+Midnight Cowboy,1969,R,113.0,Drama,John Schlesinger,"Dustin Hoffman, Jon Voight, Sylvia Miles",7.8,79.0,123498.0,44785053.0
+Shadow of a Doubt,1943,PG,108.0,"Film-Noir, Thriller",Alfred Hitchcock,"Teresa Wright, Joseph Cotten, Macdonald Carey",7.8,94.0,72106.0,
+Interstellar,2014,PG-13,169.0,"Adventure, Drama, Sci-Fi",Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",8.7,74.0,2339759.0,203227580.0
+Hannah and Her Sisters,1986,PG-13,107.0,"Comedy, Drama",Woody Allen,"Mia Farrow, Dianne Wiest, Michael Caine",7.8,90.0,78894.0,40084041.0
+"Monsters, Inc.",2001,G,92.0,"Animation, Adventure, Comedy","Pete Docter, David Silverman, Lee Unkrich","Billy Crystal, John Goodman, Mary Gibbs",8.1,79.0,1026193.0,290642256.0
+The Testament of Dr. Mabuse,1933,Not Rated,122.0,"Crime, Mystery, Thriller",Fritz Lang,"Rudolf Klein-Rogge, Otto Wernicke, Thomy Bourdelle",7.9,,13851.0,
+Downfall,2004,R,156.0,"Biography, Drama, History",Oliver Hirschbiegel,"Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes",8.2,82.0,387266.0,5509040.0
+Being There,1979,PG,130.0,"Comedy, Drama",Hal Ashby,"Peter Sellers, Shirley MacLaine, Melvyn Douglas",7.9,83.0,80453.0,30177511.0
+The Killer,2023,R,118.0,"Action, Adventure, Crime",David Fincher,"Michael Fassbender, Tilda Swinton, Charles Parnell",6.7,73.0,207922.0,
+My Left Foot,1989,R,103.0,"Biography, Drama",Jim Sheridan,"Daniel Day-Lewis, Brenda Fricker, Alison Whelan",7.8,97.0,81688.0,14743391.0
+Jean de Florette,1986,PG,120.0,"Comedy, Drama",Claude Berri,"Yves Montand, Gérard Depardieu, Daniel Auteuil",8.1,,28026.0,4940939.0
+The Big Lebowski,1998,R,117.0,"Comedy, Crime","Joel Coen, Ethan Coen","Jeff Bridges, John Goodman, Julianne Moore",8.1,71.0,889936.0,19488923.0
+The King's Speech,2010,R,118.0,"Biography, Drama, History",Tom Hooper,"Colin Firth, Geoffrey Rush, Helena Bonham Carter",8.0,88.0,721302.0,138797449.0
+Whisper of the Heart,1995,G,111.0,"Animation, Drama, Family",Yoshifumi Kondô,"Yoko Honna, Issei Takahashi, Takashi Tachibana",7.8,75.0,76913.0,498156.0
+E.T. the Extra-Terrestrial,1982,PG,115.0,"Adventure, Family, Sci-Fi",Steven Spielberg,"Henry Thomas, Drew Barrymore, Peter Coyote",7.9,92.0,451476.0,439454989.0
+Infernal Affairs,2002,R,101.0,"Crime, Drama, Mystery","Wai Keung Lau, Alan Mak","Andy Lau, Tony Leung Chiu-wai, Anthony Chau-Sang Wong",8.0,75.0,134131.0,169659.0
+The Prestige,2006,PG-13,130.0,"Drama, Mystery, Sci-Fi",Christopher Nolan,"Christian Bale, Hugh Jackman, Scarlett Johansson",8.5,66.0,1512938.0,53089891.0
+Our Hospitality,1923,Passed,65.0,"Comedy, Romance, Thriller","John G. Blystone, Buster Keaton","Buster Keaton, Natalie Talmadge, Joe Keaton",7.8,,12846.0,1172499.0
+Zootopia,2016,PG,108.0,"Animation, Action, Adventure","Byron Howard, Rich Moore, Jared Bush","Ginnifer Goodwin, Jason Bateman, Idris Elba",8.0,78.0,577006.0,341268248.0
+Toy Story 2,1999,G,92.0,"Animation, Adventure, Comedy","John Lasseter, Ash Brannon, Lee Unkrich","Tom Hanks, Tim Allen, Joan Cusack",7.9,88.0,643210.0,245852179.0
+Klaus,2019,PG,96.0,"Animation, Adventure, Comedy","Sergio Pablos, Carlos Martínez López","Jason Schwartzman, J.K. Simmons, Rashida Jones",8.2,65.0,213749.0,
+The Big Sleep,1946,Approved,114.0,"Crime, Film-Noir, Mystery",Howard Hawks,"Humphrey Bogart, Lauren Bacall, John Ridgely",7.9,86.0,92084.0,25556.0
+Ford v Ferrari,2019,PG-13,152.0,"Action, Biography, Drama",James Mangold,"Matt Damon, Christian Bale, Jon Bernthal",8.1,81.0,511816.0,117624357.0
+Dead Poets Society,1989,PG,128.0,"Comedy, Drama",Peter Weir,"Robin Williams, Robert Sean Leonard, Ethan Hawke",8.1,79.0,587741.0,95860116.0
+The Terminator,1984,R,107.0,"Action, Adventure, Sci-Fi",James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Michael Biehn",8.1,84.0,955787.0,38371200.0
+Naked,1993,Not Rated,131.0,"Comedy, Drama",Mike Leigh,"David Thewlis, Lesley Sharp, Katrin Cartlidge",7.7,85.0,45233.0,1769305.0
+Dangal,2016,Not Rated,161.0,"Action, Biography, Drama",Nitesh Tiwari,"Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh",8.3,,220511.0,12391761.0
+Kwaidan,1964,Not Rated,183.0,"Drama, Fantasy, Horror",Masaki Kobayashi,"Rentarô Mikuni, Michiyo Aratama, Misako Watanabe",7.9,,20759.0,
+The Man Who Would Be King,1975,PG,129.0,"Adventure, Drama, War",John Huston,"Sean Connery, Michael Caine, Christopher Plummer",7.8,91.0,52864.0,
+Wild Tales,2014,R,122.0,"Comedy, Drama, Thriller",Damián Szifron,"Darío Grandinetti, María Marull, Mónica Villa",8.1,77.0,225049.0,3106530.0
+Groundhog Day,1993,PG,101.0,"Comedy, Drama, Fantasy",Harold Ramis,"Bill Murray, Andie MacDowell, Chris Elliott",8.0,72.0,714340.0,71107962.0
+Catch Me If You Can (2002),2002,Not Rated,115.5,,,,,,106136.0,
+I Vitelloni,1953,Not Rated,104.0,"Comedy, Drama",Federico Fellini,"Alberto Sordi, Franco Fabrizi, Franco Interlenghi",7.8,87.0,20353.0,116428.0
+The Big Heat,1953,Approved,89.0,"Crime, Drama, Film-Noir",Fritz Lang,"Glenn Ford, Gloria Grahame, Jocelyn Brando",7.9,,30700.0,
+The Double Life of Veronique,2015,Not Rated,115.5,Drama,,"Xiang Ding, Yiren Gao, Anthony Gavard",,,106136.0,
+Who's Afraid of Virginia Woolf?,1966,Approved,131.0,Drama,Mike Nichols,"Elizabeth Taylor, Richard Burton, George Segal",8.0,75.0,81881.0,28000000.0
+Requiem for a Dream,2000,NC-17,102.0,Drama,Darren Aronofsky,"Ellen Burstyn, Jared Leto, Jennifer Connelly",8.3,71.0,935942.0,3635482.0
+Rope,1948,Approved,80.0,"Crime, Drama, Mystery",Alfred Hitchcock,"James Stewart, John Dall, Farley Granger",7.9,73.0,158674.0,
+Love and Death,1975,PG,85.0,"Comedy, War",Woody Allen,"Woody Allen, Diane Keaton, Georges Adet",7.6,89.0,42230.0,20123742.0
+The Remains of the Day,1993,PG,134.0,"Drama, Romance",James Ivory,"Anthony Hopkins, Emma Thompson, John Haycraft",7.8,86.0,87999.0,23237911.0
+Jules and Jim,1962,Not Rated,105.0,"Drama, Romance",François Truffaut,"Jeanne Moreau, Oskar Werner, Henri Serre",7.7,97.0,45246.0,509.0
+The Gospel According to St. Matthew,1964,Not Rated,137.0,"Biography, Drama, History",Pier Paolo Pasolini,"Enrique Irazoqui, Margherita Caruso, Susanna Pasolini",7.6,,14251.0,
+How to Train Your Dragon,2010,PG,98.0,"Animation, Action, Adventure","Dean DeBlois, Chris Sanders","Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",8.1,75.0,841318.0,217581231.0
+Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130.0,"Adventure, Family, Fantasy",David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint",8.1,85.0,996664.0,381447587.0
+Cat on a Hot Tin Roof,1958,Approved,108.0,Drama,Richard Brooks,"Elizabeth Taylor, Paul Newman, Burl Ives",7.9,84.0,54464.0,
+The French Connection,1971,R,104.0,"Action, Crime, Drama",William Friedkin,"Gene Hackman, Roy Scheider, Fernando Rey",7.7,94.0,139943.0,51700000.0
+Opening Night,1977,PG-13,144.0,Drama,John Cassavetes,"Gena Rowlands, John Cassavetes, Ben Gazzara",7.9,69.0,12800.0,23488.0
+Hotel Rwanda,2004,PG-13,121.0,"Biography, Drama, History",Terry George,"Don Cheadle, Sophie Okonedo, Joaquin Phoenix",8.1,79.0,383414.0,23530892.0
+"4 Months, 3 Weeks and 2 Days",2007,Not Rated,113.0,Drama,Cristian Mungiu,"Anamaria Marinca, Laura Vasiliu, Vlad Ivanov",7.9,97.0,64597.0,1198208.0
+Tampopo,1985,Not Rated,114.0,Comedy,Jûzô Itami,"Ken Watanabe, Tsutomu Yamazaki, Nobuko Miyamoto",7.9,87.0,24523.0,224097.0
+Scarface,1983,R,170.0,"Crime, Drama",Brian De Palma,"Al Pacino, Michelle Pfeiffer, Steven Bauer",8.3,65.0,963892.0,45967303.0
+The Face of Another,1966,Not Rated,124.0,"Drama, Sci-Fi, Thriller",Hiroshi Teshigahara,"Tatsuya Nakadai, Mikijirô Hira, Kyôko Kishida",7.9,,10793.0,
+The Roaring Twenties,1939,Approved,106.0,"Crime, Drama, Thriller",Raoul Walsh,"James Cagney, Humphrey Bogart, Priscilla Lane",7.9,80.0,16367.0,
+Pickpocket,1959,Not Rated,76.0,"Crime, Drama",Robert Bresson,"Martin LaSalle, Marika Green, Jean Pélégri",7.6,,25980.0,
+Kiki's Delivery Service,1989,G,103.0,"Animation, Family, Fantasy",Hayao Miyazaki,"Kirsten Dunst, Minami Takayama, Rei Sakuma",7.8,85.0,173716.0,1004057.0
+A Prophet,2009,R,155.0,"Crime, Drama",Jacques Audiard,"Tahar Rahim, Niels Arestrup, Adel Bencherif",7.8,90.0,103929.0,2087720.0
+Zelig,1983,PG,79.0,Comedy,Woody Allen,"Woody Allen, Mia Farrow, Patrick Horgan",7.6,,44742.0,11798616.0
+Trouble in Paradise,1932,Approved,83.0,"Comedy, Crime, Romance",Ernst Lubitsch,"Miriam Hopkins, Kay Francis, Herbert Marshall",7.9,,16549.0,
+Gran Torino,2008,R,116.0,Drama,Clint Eastwood,"Clint Eastwood, Bee Vang, Christopher Carley",8.1,73.0,834520.0,148095302.0
+Last Year at Marienbad,1961,Not Rated,94.0,"Drama, Mystery, Romance",Alain Resnais,"Delphine Seyrig, Giorgio Albertazzi, Sacha Pitoëff",7.6,,25676.0,207917.0
+All the President's Men,1976,PG,138.0,"Drama, History, Thriller",Alan J. Pakula,"Dustin Hoffman, Robert Redford, Jack Warden",7.9,84.0,129425.0,70600000.0
+Breaking the Waves,1996,R,159.0,Drama,Lars von Trier,"Emily Watson, Stellan Skarsgård, Katrin Cartlidge",7.8,82.0,73011.0,3803298.0
+Indiana Jones and the Last Crusade,1989,PG-13,127.0,"Action, Adventure",Steven Spielberg,"Harrison Ford, Sean Connery, Alison Doody",8.2,65.0,837844.0,197171806.0
+Divorce Italian Style,1961,Approved,105.0,"Comedy, Drama, Romance",Pietro Germi,"Marcello Mastroianni, Daniela Rocca, Stefania Sandrelli",7.9,,14806.0,
+Edward Scissorhands,1990,PG-13,105.0,"Drama, Fantasy, Romance",Tim Burton,"Johnny Depp, Winona Ryder, Dianne Wiest",7.9,74.0,541949.0,56362352.0
+The Thing,1982,R,109.0,"Horror, Mystery, Sci-Fi",John Carpenter,"Kurt Russell, Wilford Brimley, Keith David",8.2,57.0,492595.0,20063820.0
+Perfect Blue,1997,Not Rated,81.0,"Animation, Crime, Drama",Satoshi Kon,"Junko Iwao, Rica Matsumoto, Shinpachi Tsuji",8.0,67.0,107176.0,558598.0
+Down by Law,1986,R,107.0,"Comedy, Crime, Drama",Jim Jarmusch,"Tom Waits, John Lurie, Roberto Benigni",7.7,75.0,56279.0,1435668.0
+Bringing Up Baby,1938,Approved,102.0,Comedy,Howard Hawks,"Katharine Hepburn, Cary Grant, Charles Ruggles",7.8,91.0,67611.0,
+The Phantom of Liberty,1974,R,104.0,Comedy,Luis Buñuel,"Jean-Claude Brialy, Adolfo Celi, Michel Piccoli",7.8,,17502.0,6172.0
+Bonnie and Clyde,1967,R,111.0,"Action, Biography, Crime",Arthur Penn,"Warren Beatty, Faye Dunaway, Michael J. Pollard",7.7,86.0,124081.0,
+The Incredibles,2004,PG,115.0,"Animation, Action, Adventure",Brad Bird,"Craig T. Nelson, Samuel L. Jackson, Holly Hunter",8.0,90.0,851626.0,261441092.0
+Rocky,1976,PG,120.0,"Drama, Sport",John G. Avildsen,"Sylvester Stallone, Talia Shire, Burt Young",8.1,70.0,650875.0,117235147.0
+His Girl Friday,1940,Approved,92.0,"Comedy, Drama, Romance",Howard Hawks,"Cary Grant, Rosalind Russell, Ralph Bellamy",7.8,,64510.0,296000.0
+Mommy,2014,R,139.0,Drama,Xavier Dolan,"Anne Dorval, Antoine Olivier Pilon, Suzanne Clément",8.0,74.0,63424.0,3494070.0
+Mon oncle,2017,Not Rated,2.0,"Short, Comedy",,"Catherine, François Dupont, Estelle",10.0,,5.0,
+My Fair Lady,1964,G,170.0,"Drama, Family, Musical",George Cukor,"Audrey Hepburn, Rex Harrison, Stanley Holloway",7.7,95.0,103904.0,72560711.0
+Charade,1963,Approved,113.0,"Comedy, Mystery, Romance",Stanley Donen,"Cary Grant, Audrey Hepburn, Walter Matthau",7.8,83.0,88013.0,
+Stalag 17,1953,Approved,120.0,"Comedy, Drama, War",Billy Wilder,"William Holden, Don Taylor, Otto Preminger",7.9,84.0,60180.0,
+Boyhood,2014,R,165.0,Drama,Richard Linklater,"Ellar Coltrane, Patricia Arquette, Ethan Hawke",7.9,100.0,375135.0,25352281.0
+The Secret in Their Eyes,2009,R,129.0,"Drama, Mystery, Romance",Juan José Campanella,"Ricardo Darín, Soledad Villamil, Pablo Rago",8.2,80.0,229994.0,6391436.0
+Ninotchka,1939,Approved,110.0,"Comedy, Romance",Ernst Lubitsch,"Greta Garbo, Melvyn Douglas, Ina Claire",7.8,,23776.0,
+Pierrot le fou,1965,Not Rated,110.0,"Crime, Drama, Romance",Jean-Luc Godard,"Jean-Paul Belmondo, Anna Karina, Graziella Galvani",7.4,,37814.0,87011.0
+The Enigma of Kaspar Hauser,1974,Not Rated,110.0,"Biography, Drama, History",Werner Herzog,"Bruno S., Walter Ladengast, Brigitte Mira",7.7,,19249.0,
+Stroszek,1977,Not Rated,115.0,"Comedy, Drama",Werner Herzog,"Bruno S., Eva Mattes, Clemens Scheitz",7.7,,15605.0,
+A Hard Day's Night,1964,G,87.0,"Comedy, Musical",Richard Lester,"John Lennon, Paul McCartney, George Harrison",7.5,96.0,49319.0,1480356.0
+Onibaba,1964,Not Rated,103.0,"Drama, Horror, Thriller",Kaneto Shindô,"Nobuko Otowa, Jitsuko Yoshimura, Kei Satô",7.9,,23085.0,
+Repulsion,1965,Not Rated,105.0,"Drama, Horror, Thriller",Roman Polanski,"Catherine Deneuve, Ian Hendry, John Fraser",7.6,91.0,58898.0,
+Like Stars on Earth,2007,PG,162.0,"Drama, Family",Aamir Khan,"Darsheel Safary, Aamir Khan, Tisca Chopra",8.3,,217612.0,1223869.0
+Duck Soup,1933,Approved,69.0,"Comedy, Musical",Leo McCarey,"Groucho Marx, Harpo Marx, Chico Marx",7.7,93.0,63582.0,
+Carlito's Way,1993,R,144.0,"Crime, Drama, Thriller",Brian De Palma,"Al Pacino, Sean Penn, Penelope Ann Miller",7.9,66.0,239534.0,36948322.0
+Nashville,1975,R,160.0,"Comedy, Drama, Music",Robert Altman,"Keith Carradine, Karen Black, Ronee Blakley",7.6,96.0,29372.0,9984123.0
+The Triplets of Belleville,2003,PG-13,80.0,"Animation, Adventure, Comedy",Sylvain Chomet,"Michèle Caucheteux, Jean-Claude Donda, Michel Robin",7.7,91.0,57843.0,7007149.0
+"Dr. Mabuse, the Gambler",1922,Not Rated,242.0,"Crime, Mystery, Thriller",Fritz Lang,"Rudolf Klein-Rogge, Aud Egede-Nissen, Gertrude Welcker",7.8,,9382.0,
+Gone Girl,2014,R,149.0,"Drama, Mystery, Thriller",David Fincher,"Ben Affleck, Rosamund Pike, Neil Patrick Harris",8.1,79.0,1120059.0,167767189.0
